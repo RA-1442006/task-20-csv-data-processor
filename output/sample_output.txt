@@ -1,0 +1,44 @@
+Sample output of main.py
+=======================================================
+              SALES DATA SUMMARY REPORT
+=======================================================
+
+DATASET OVERVIEW
+-------------------------------------------------------
+Total rows read             : 25
+Valid records processed     : 19
+Skipped / invalid rows      : 6
+
+SALES & REVENUE METRICS
+-------------------------------------------------------
+Total revenue               : $6,174.50
+Total units sold            : 317
+Average salary              : $55,157.89
+Top-selling product         : Gadget X (123 units)
+
+HIGHLIGHTS (HIGHEST & LOWEST REVENUE)
+-------------------------------------------------------
+Highest revenue row         : Victor Vance (Gadget Y) - $850.00
+Lowest revenue row          : Quinn Fabray (Gadget X) - $84.00
+
+RECORDS PER DEPARTMENT
+-------------------------------------------------------
+Sales                       : 8
+Marketing                   : 4
+Engineering                 : 4
+Support                     : 3
+
+RECORDS PER REGION
+-------------------------------------------------------
+West                        : 6
+North                       : 5
+South                       : 4
+East                        : 4
+
+DATA QUALITY ISSUES
+-------------------------------------------------------
+Total rows with issues      : 6
+  - Invalid/missing units_sold  : 3 row(s)
+  - Invalid/missing unit_price  : 2 row(s)
+  - Invalid/missing salary      : 1 row(s)
+=======================================================

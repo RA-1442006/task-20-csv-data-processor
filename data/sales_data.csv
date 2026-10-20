@@ -1,0 +1,26 @@
+id,name,department,region,product,units_sold,unit_price,salary
+101,Alice Smith,Sales,North,Widget A,15,20.00,52000
+102,Bob Jones,Sales,South,Widget B,8,35.50,48000
+103,Charlie Brown,Marketing,East,Widget A,12,20.00,55000
+104,Diana Prince,Support,West,Gadget X,25,12.00,46000
+105,Evan Wright,Sales,North,Gadget Y,-4,50.00,51000
+106,Fiona Gallagher,Engineering,West,Widget A,5,20.00,72000
+107,George Clark,Marketing,North,Widget C,18,15.00,53000
+108,Hannah Abbott,Sales,East,Gadget X,30,12.00,49000
+109,Ian Malcolm,Engineering,South,Widget B,N/A,35.50,68000
+110,Julia Roberts,Support,North,Widget A,10,20.00,47000
+111,Kevin Bacon,Sales,West,Widget C,22,15.00,54000
+112,Laura Croft,Engineering,East,Gadget Y,14,abc,75000
+113,Michael Scott,Sales,North,Gadget X,40,12.00,60000
+114,Nina Simone,Marketing,South,Widget A,9,20.00,58000
+115,Oscar Martinez,Support,East,Widget B,16,-30.00,50000
+116,Pam Beesly,Sales,North,Widget C,20,15.00,45000
+117,Quinn Fabray,Engineering,West,Gadget X,7,12.00,71000
+118,Ryan Howard,Marketing,East,Gadget Y,11,50.00,42000
+119,Stanley Hudson,Sales,South,Widget B,19,35.50,53000
+120,Toby Flenderson,Support,North,Widget A,6,20.00,
+121,Ursula Corbero,Engineering,East,Widget C,13,15.00,69000
+122,Victor Vance,Sales,West,Gadget Y,17,50.00,52000
+123,Wendy Darling,Support,South,Gadget X,21,12.00,48000
+124,Xavier Woods,Marketing,North,Widget B,,35.50,56000
+125,Yvonne Strahovski,Engineering,West,Widget C,15,15.00,74000
